@@ -68,12 +68,12 @@ print(f"Result: {result}")
 - `requirements.txt` - Python dependencies
 
 
-## EXECUTING
-# Arithmetic example 
+# EXECUTING
+## Arithmetic example 
 ```bash
 python -m examples.arithmetic.py
 ```
-#OUTPUT
+##OUTPUT
 ```bash
 Generated program:
   0000: PUSH     10
@@ -90,11 +90,11 @@ Executing program...
 Output: 85
 Final result: 85
 ```
-# Fibonacci example
+## Fibonacci example
 ```bash
 python -m examples.fibonacci
 ```
-#OUTPUT
+##OUTPUT
 ```bash
 Generated program:
   0000: PUSH     10
