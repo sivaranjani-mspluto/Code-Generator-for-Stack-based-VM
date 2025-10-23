@@ -1,0 +1,10 @@
+# Core dependencies for StackVM
+# No external dependencies required for the core functionality
+
+# Testing dependencies (optional)
+pytest>=7.0.0
+
+# Development tools (optional)
+black>=22.0.0
+mypy>=0.910
+flake8>=4.0.0
